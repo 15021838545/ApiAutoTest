@@ -1,0 +1,2 @@
+- casedata: {"mobilephone":"18076668888","pwd":"abcd_1","regname":"花木兰"}
+  expect: {"code":20110,"data":{},"msg":"手机号码已被注册","status":0}
